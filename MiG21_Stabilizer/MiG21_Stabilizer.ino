@@ -1,6 +1,14 @@
 /*
   MiG-21 ESP32 Flight Stabilizer  v1.1   (WORK IN PROGRESS, UNTESTED)
   ------------------------------------------------------------------
+  Copyright (C) 2026 Fernand G.
+  SPDX-License-Identifier: GPL-3.0-or-later
+  This program is free software: you can redistribute it and/or modify it
+  under the terms of the GNU General Public License as published by the
+  Free Software Foundation, either version 3 of the License, or (at your
+  option) any later version. It is distributed WITHOUT ANY WARRANTY; see
+  the LICENSE file for details.
+  ------------------------------------------------------------------
   For a 1:10 scale R/C MiG-21 EDF jet.
   Board    : Classic ESP32 DevKit (ESP32-WROOM-32). Not S2/S3/C3.
   Sensor   : MPU-6050 on a GY-521 breakout

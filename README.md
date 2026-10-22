@@ -123,6 +123,12 @@ If protecting the airframe matters more than building the stabilizer yourself, a
 - [ ] Airspeed-based gain scheduling
 - [ ] First flight log and retuned defaults
 
+## License
+
+Copyright (C) 2026 Fernand G.
+
+Licensed under the GNU General Public License, version 3 or (at your option) any later version. See the [LICENSE](LICENSE) file. In short: you may use, modify and redistribute this code, including commercially, but you must keep the copyright notices and release any distributed modifications under the same license.
+
 ## Disclaimer
 
 Experimental hobby software provided as is, with no warranty. You are responsible for testing it and for flying safely and legally.
