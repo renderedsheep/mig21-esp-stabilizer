@@ -4,7 +4,7 @@ A DIY gyro stabilizer for a **1:10 scale R/C MiG-21 EDF jet**, built on an ESP32
 
 > [!CAUTION]
 > **Status: work in progress, UNTESTED.**
-> This code has never been run on hardware and has never flown. It has only been syntax-checked on a desktop, and its radio-frame parser has been tested against simulated data. Do not trust it with an aircraft you cannot afford to lose. Every direction setting in the sketch is an unverified guess until you complete the bench tests below.
+> This experimental hobby software provided as is, with no warranty. You are responsible for testing it and for flying safely and legally. This code has never been run on hardware and has never flown. It has only been syntax-checked on a desktop, and its radio-frame parser has been tested against simulated data. Do not trust it with an aircraft you cannot afford to lose. Every direction setting in the sketch is an unverified guess until you complete the bench tests below. 
 
 ## What it does
 
@@ -129,6 +129,3 @@ Copyright (C) 2026 Fernand G.
 
 Licensed under the GNU General Public License, version 3 or (at your option) any later version. See the [LICENSE](LICENSE) file. In short: you may use, modify and redistribute this code, including commercially, but you must keep the copyright notices and release any distributed modifications under the same license.
 
-## Disclaimer
-
-Experimental hobby software provided as is, with no warranty. You are responsible for testing it and for flying safely and legally.
