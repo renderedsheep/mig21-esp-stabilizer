@@ -2,6 +2,8 @@
 
 A DIY gyro stabilizer for a **1:10 scale R/C MiG-21 EDF jet**, built on an ESP32 and an MPU-6050 motion sensor.
 
+![The 3D-printed 1:10 scale MiG-21 airframe on the workbench during assembly](images/mig21-airframe.jpg)
+
 > [!CAUTION]
 > **Status: work in progress, UNTESTED.**
 > This experimental hobby software provided as is, with no warranty. You are responsible for testing it and for flying safely and legally. This code has never been run on hardware and has never flown. It has only been syntax-checked on a desktop, and its radio-frame parser has been tested against simulated data. Do not trust it with an aircraft you cannot afford to lose. Every direction setting in the sketch is an unverified guess until you complete the bench tests below. 
